@@ -1,0 +1,570 @@
+{
+  "lr_only": [
+    {
+      "held_out": "fu",
+      "test": {
+        "macro": 100.0,
+        "per_class": {
+          "forward_head": 100.0,
+          "left_leaning": 100.0,
+          "right_leaning": 100.0,
+          "sit_straight": 100.0
+        }
+      }
+    },
+    {
+      "held_out": "mukrop",
+      "test": {
+        "macro": 72.36842105263158,
+        "per_class": {
+          "forward_head": 100.0,
+          "left_leaning": 100.0,
+          "right_leaning": 0.0,
+          "sit_straight": 89.47368421052632
+        }
+      }
+    },
+    {
+      "held_out": "nonny",
+      "test": {
+        "macro": 100.0,
+        "per_class": {
+          "forward_head": 100.0,
+          "left_leaning": 100.0,
+          "right_leaning": 100.0,
+          "sit_straight": 100.0
+        }
+      }
+    },
+    {
+      "held_out": "boom",
+      "test": {
+        "macro": 98.68421052631578,
+        "per_class": {
+          "forward_head": 94.73684210526315,
+          "left_leaning": 100.0,
+          "right_leaning": 100.0,
+          "sit_straight": 100.0
+        }
+      }
+    },
+    {
+      "held_out": "peemai",
+      "test": {
+        "macro": 100.0,
+        "per_class": {
+          "forward_head": 100.0,
+          "left_leaning": 100.0,
+          "right_leaning": 100.0,
+          "sit_straight": 100.0
+        }
+      }
+    },
+    {
+      "held_out": "pan",
+      "test": {
+        "macro": 75.0,
+        "per_class": {
+          "forward_head": 0.0,
+          "left_leaning": 100.0,
+          "right_leaning": 100.0,
+          "sit_straight": 100.0
+        }
+      }
+    },
+    {
+      "held_out": "namoon",
+      "test": {
+        "macro": 100.0,
+        "per_class": {
+          "forward_head": 100.0,
+          "left_leaning": 100.0,
+          "right_leaning": 100.0,
+          "sit_straight": 100.0
+        }
+      }
+    },
+    {
+      "held_out": "mai",
+      "test": {
+        "macro": 100.0,
+        "per_class": {
+          "forward_head": 100.0,
+          "left_leaning": 100.0,
+          "right_leaning": 100.0,
+          "sit_straight": 100.0
+        }
+      }
+    },
+    {
+      "held_out": "money",
+      "test": {
+        "macro": 100.0,
+        "per_class": {
+          "forward_head": 100.0,
+          "left_leaning": 100.0,
+          "right_leaning": 100.0,
+          "sit_straight": 100.0
+        }
+      }
+    }
+  ],
+  "sit_only": [
+    {
+      "held_out": "fu",
+      "test": {
+        "macro": 100.0,
+        "per_class": {
+          "forward_head": 100.0,
+          "left_leaning": 100.0,
+          "right_leaning": 100.0,
+          "sit_straight": 100.0
+        }
+      }
+    },
+    {
+      "held_out": "mukrop",
+      "test": {
+        "macro": 82.89473684210526,
+        "per_class": {
+          "forward_head": 100.0,
+          "left_leaning": 68.42105263157895,
+          "right_leaning": 100.0,
+          "sit_straight": 63.1578947368421
+        }
+      }
+    },
+    {
+      "held_out": "nonny",
+      "test": {
+        "macro": 100.0,
+        "per_class": {
+          "forward_head": 100.0,
+          "left_leaning": 100.0,
+          "right_leaning": 100.0,
+          "sit_straight": 100.0
+        }
+      }
+    },
+    {
+      "held_out": "boom",
+      "test": {
+        "macro": 97.36842105263158,
+        "per_class": {
+          "forward_head": 89.47368421052632,
+          "left_leaning": 100.0,
+          "right_leaning": 100.0,
+          "sit_straight": 100.0
+        }
+      }
+    },
+    {
+      "held_out": "peemai",
+      "test": {
+        "macro": 89.47368421052632,
+        "per_class": {
+          "forward_head": 100.0,
+          "left_leaning": 100.0,
+          "right_leaning": 100.0,
+          "sit_straight": 57.89473684210527
+        }
+      }
+    },
+    {
+      "held_out": "pan",
+      "test": {
+        "macro": 96.05263157894737,
+        "per_class": {
+          "forward_head": 84.21052631578947,
+          "left_leaning": 100.0,
+          "right_leaning": 100.0,
+          "sit_straight": 100.0
+        }
+      }
+    },
+    {
+      "held_out": "namoon",
+      "test": {
+        "macro": 100.0,
+        "per_class": {
+          "forward_head": 100.0,
+          "left_leaning": 100.0,
+          "right_leaning": 100.0,
+          "sit_straight": 100.0
+        }
+      }
+    },
+    {
+      "held_out": "mai",
+      "test": {
+        "macro": 50.0,
+        "per_class": {
+          "forward_head": 0.0,
+          "left_leaning": 0.0,
+          "right_leaning": 100.0,
+          "sit_straight": 100.0
+        }
+      }
+    },
+    {
+      "held_out": "money",
+      "test": {
+        "macro": 100.0,
+        "per_class": {
+          "forward_head": 100.0,
+          "left_leaning": 100.0,
+          "right_leaning": 100.0,
+          "sit_straight": 100.0
+        }
+      }
+    }
+  ],
+  "ttsp_subj": [
+    {
+      "held_out": "fu",
+      "test": {
+        "macro": 100.0,
+        "per_class": {
+          "forward_head": 100.0,
+          "left_leaning": 100.0,
+          "right_leaning": 100.0,
+          "sit_straight": 100.0
+        }
+      },
+      "gate": 0.0
+    },
+    {
+      "held_out": "mukrop",
+      "test": {
+        "macro": 72.36842105263158,
+        "per_class": {
+          "forward_head": 100.0,
+          "left_leaning": 100.0,
+          "right_leaning": 0.0,
+          "sit_straight": 89.47368421052632
+        }
+      },
+      "gate": 1.0
+    },
+    {
+      "held_out": "nonny",
+      "test": {
+        "macro": 100.0,
+        "per_class": {
+          "forward_head": 100.0,
+          "left_leaning": 100.0,
+          "right_leaning": 100.0,
+          "sit_straight": 100.0
+        }
+      },
+      "gate": 0.0
+    },
+    {
+      "held_out": "boom",
+      "test": {
+        "macro": 98.68421052631578,
+        "per_class": {
+          "forward_head": 94.73684210526315,
+          "left_leaning": 100.0,
+          "right_leaning": 100.0,
+          "sit_straight": 100.0
+        }
+      },
+      "gate": 1.0
+    },
+    {
+      "held_out": "peemai",
+      "test": {
+        "macro": 89.47368421052632,
+        "per_class": {
+          "forward_head": 100.0,
+          "left_leaning": 100.0,
+          "right_leaning": 100.0,
+          "sit_straight": 57.89473684210527
+        }
+      },
+      "gate": 0.0
+    },
+    {
+      "held_out": "pan",
+      "test": {
+        "macro": 96.05263157894737,
+        "per_class": {
+          "forward_head": 84.21052631578947,
+          "left_leaning": 100.0,
+          "right_leaning": 100.0,
+          "sit_straight": 100.0
+        }
+      },
+      "gate": 0.0
+    },
+    {
+      "held_out": "namoon",
+      "test": {
+        "macro": 100.0,
+        "per_class": {
+          "forward_head": 100.0,
+          "left_leaning": 100.0,
+          "right_leaning": 100.0,
+          "sit_straight": 100.0
+        }
+      },
+      "gate": 1.0
+    },
+    {
+      "held_out": "mai",
+      "test": {
+        "macro": 50.0,
+        "per_class": {
+          "forward_head": 0.0,
+          "left_leaning": 0.0,
+          "right_leaning": 100.0,
+          "sit_straight": 100.0
+        }
+      },
+      "gate": 0.0
+    },
+    {
+      "held_out": "money",
+      "test": {
+        "macro": 100.0,
+        "per_class": {
+          "forward_head": 100.0,
+          "left_leaning": 100.0,
+          "right_leaning": 100.0,
+          "sit_straight": 100.0
+        }
+      },
+      "gate": 0.0
+    }
+  ],
+  "ttsp_sample": [
+    {
+      "held_out": "fu",
+      "test": {
+        "macro": 100.0,
+        "per_class": {
+          "forward_head": 100.0,
+          "left_leaning": 100.0,
+          "right_leaning": 100.0,
+          "sit_straight": 100.0
+        }
+      },
+      "gate_mean": 0.44658195972442627
+    },
+    {
+      "held_out": "mukrop",
+      "test": {
+        "macro": 72.36842105263158,
+        "per_class": {
+          "forward_head": 100.0,
+          "left_leaning": 100.0,
+          "right_leaning": 0.0,
+          "sit_straight": 89.47368421052632
+        }
+      },
+      "gate_mean": 0.5275121331214905
+    },
+    {
+      "held_out": "nonny",
+      "test": {
+        "macro": 100.0,
+        "per_class": {
+          "forward_head": 100.0,
+          "left_leaning": 100.0,
+          "right_leaning": 100.0,
+          "sit_straight": 100.0
+        }
+      },
+      "gate_mean": 0.4651779234409332
+    },
+    {
+      "held_out": "boom",
+      "test": {
+        "macro": 98.68421052631578,
+        "per_class": {
+          "forward_head": 94.73684210526315,
+          "left_leaning": 100.0,
+          "right_leaning": 100.0,
+          "sit_straight": 100.0
+        }
+      },
+      "gate_mean": 0.5035610198974609
+    },
+    {
+      "held_out": "peemai",
+      "test": {
+        "macro": 98.68421052631578,
+        "per_class": {
+          "forward_head": 100.0,
+          "left_leaning": 100.0,
+          "right_leaning": 100.0,
+          "sit_straight": 94.73684210526315
+        }
+      },
+      "gate_mean": 0.342162162065506
+    },
+    {
+      "held_out": "pan",
+      "test": {
+        "macro": 88.15789473684211,
+        "per_class": {
+          "forward_head": 52.63157894736842,
+          "left_leaning": 100.0,
+          "right_leaning": 100.0,
+          "sit_straight": 100.0
+        }
+      },
+      "gate_mean": 0.37170130014419556
+    },
+    {
+      "held_out": "namoon",
+      "test": {
+        "macro": 100.0,
+        "per_class": {
+          "forward_head": 100.0,
+          "left_leaning": 100.0,
+          "right_leaning": 100.0,
+          "sit_straight": 100.0
+        }
+      },
+      "gate_mean": 0.525669276714325
+    },
+    {
+      "held_out": "mai",
+      "test": {
+        "macro": 56.25,
+        "per_class": {
+          "forward_head": 25.0,
+          "left_leaning": 0.0,
+          "right_leaning": 100.0,
+          "sit_straight": 100.0
+        }
+      },
+      "gate_mean": 0.27135735750198364
+    },
+    {
+      "held_out": "money",
+      "test": {
+        "macro": 100.0,
+        "per_class": {
+          "forward_head": 100.0,
+          "left_leaning": 100.0,
+          "right_leaning": 100.0,
+          "sit_straight": 100.0
+        }
+      },
+      "gate_mean": 0.4771006107330322
+    }
+  ],
+  "ttsp_oracle": [
+    {
+      "held_out": "fu",
+      "test": {
+        "macro": 100.0,
+        "per_class": {
+          "forward_head": 100.0,
+          "left_leaning": 100.0,
+          "right_leaning": 100.0,
+          "sit_straight": 100.0
+        }
+      }
+    },
+    {
+      "held_out": "mukrop",
+      "test": {
+        "macro": 82.89473684210526,
+        "per_class": {
+          "forward_head": 100.0,
+          "left_leaning": 68.42105263157895,
+          "right_leaning": 100.0,
+          "sit_straight": 63.1578947368421
+        }
+      }
+    },
+    {
+      "held_out": "nonny",
+      "test": {
+        "macro": 100.0,
+        "per_class": {
+          "forward_head": 100.0,
+          "left_leaning": 100.0,
+          "right_leaning": 100.0,
+          "sit_straight": 100.0
+        }
+      }
+    },
+    {
+      "held_out": "boom",
+      "test": {
+        "macro": 98.68421052631578,
+        "per_class": {
+          "forward_head": 94.73684210526315,
+          "left_leaning": 100.0,
+          "right_leaning": 100.0,
+          "sit_straight": 100.0
+        }
+      }
+    },
+    {
+      "held_out": "peemai",
+      "test": {
+        "macro": 100.0,
+        "per_class": {
+          "forward_head": 100.0,
+          "left_leaning": 100.0,
+          "right_leaning": 100.0,
+          "sit_straight": 100.0
+        }
+      }
+    },
+    {
+      "held_out": "pan",
+      "test": {
+        "macro": 96.05263157894737,
+        "per_class": {
+          "forward_head": 84.21052631578947,
+          "left_leaning": 100.0,
+          "right_leaning": 100.0,
+          "sit_straight": 100.0
+        }
+      }
+    },
+    {
+      "held_out": "namoon",
+      "test": {
+        "macro": 100.0,
+        "per_class": {
+          "forward_head": 100.0,
+          "left_leaning": 100.0,
+          "right_leaning": 100.0,
+          "sit_straight": 100.0
+        }
+      }
+    },
+    {
+      "held_out": "mai",
+      "test": {
+        "macro": 100.0,
+        "per_class": {
+          "forward_head": 100.0,
+          "left_leaning": 100.0,
+          "right_leaning": 100.0,
+          "sit_straight": 100.0
+        }
+      }
+    },
+    {
+      "held_out": "money",
+      "test": {
+        "macro": 100.0,
+        "per_class": {
+          "forward_head": 100.0,
+          "left_leaning": 100.0,
+          "right_leaning": 100.0,
+          "sit_straight": 100.0
+        }
+      }
+    }
+  ]
+}

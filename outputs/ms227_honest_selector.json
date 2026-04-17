@@ -1,0 +1,214 @@
+{
+  "cal_k": 5,
+  "candidate_priority": [
+    "skel_only",
+    "lr_only",
+    "ms224_hyb",
+    "ttsp_subj"
+  ],
+  "per_subject": [
+    {
+      "subject": "fu",
+      "chose": "skel_only",
+      "cal_accs": {
+        "ttsp_subj": 1.0,
+        "lr_only": 1.0,
+        "skel_only": 1.0,
+        "ms224_hyb": 1.0
+      },
+      "eval_macros": {
+        "ttsp_subj": 1.0,
+        "lr_only": 1.0,
+        "skel_only": 1.0,
+        "ms224_hyb": 1.0
+      },
+      "eval_pc_chose": {
+        "forward_head": 1.0,
+        "left_leaning": 1.0,
+        "right_leaning": 1.0,
+        "sit_straight": 1.0
+      }
+    },
+    {
+      "subject": "mukrop",
+      "chose": "skel_only",
+      "cal_accs": {
+        "ttsp_subj": 0.75,
+        "lr_only": 0.75,
+        "skel_only": 0.95,
+        "ms224_hyb": 0.75
+      },
+      "eval_macros": {
+        "ttsp_subj": 0.7142857142857143,
+        "lr_only": 0.7142857142857143,
+        "skel_only": 1.0,
+        "ms224_hyb": 0.7142857142857143
+      },
+      "eval_pc_chose": {
+        "forward_head": 1.0,
+        "left_leaning": 1.0,
+        "right_leaning": 1.0,
+        "sit_straight": 1.0
+      }
+    },
+    {
+      "subject": "nonny",
+      "chose": "skel_only",
+      "cal_accs": {
+        "ttsp_subj": 1.0,
+        "lr_only": 1.0,
+        "skel_only": 1.0,
+        "ms224_hyb": 1.0
+      },
+      "eval_macros": {
+        "ttsp_subj": 1.0,
+        "lr_only": 1.0,
+        "skel_only": 1.0,
+        "ms224_hyb": 1.0
+      },
+      "eval_pc_chose": {
+        "forward_head": 1.0,
+        "left_leaning": 1.0,
+        "right_leaning": 1.0,
+        "sit_straight": 1.0
+      }
+    },
+    {
+      "subject": "boom",
+      "chose": "lr_only",
+      "cal_accs": {
+        "ttsp_subj": 1.0,
+        "lr_only": 1.0,
+        "skel_only": 0.75,
+        "ms224_hyb": 1.0
+      },
+      "eval_macros": {
+        "ttsp_subj": 0.9821428571428572,
+        "lr_only": 0.9821428571428572,
+        "skel_only": 0.8035714285714286,
+        "ms224_hyb": 0.9821428571428572
+      },
+      "eval_pc_chose": {
+        "forward_head": 0.9285714285714286,
+        "left_leaning": 1.0,
+        "right_leaning": 1.0,
+        "sit_straight": 1.0
+      }
+    },
+    {
+      "subject": "peemai",
+      "chose": "lr_only",
+      "cal_accs": {
+        "ttsp_subj": 1.0,
+        "lr_only": 1.0,
+        "skel_only": 0.75,
+        "ms224_hyb": 1.0
+      },
+      "eval_macros": {
+        "ttsp_subj": 0.8571428571428571,
+        "lr_only": 1.0,
+        "skel_only": 0.75,
+        "ms224_hyb": 1.0
+      },
+      "eval_pc_chose": {
+        "forward_head": 1.0,
+        "left_leaning": 1.0,
+        "right_leaning": 1.0,
+        "sit_straight": 1.0
+      }
+    },
+    {
+      "subject": "pan",
+      "chose": "ttsp_subj",
+      "cal_accs": {
+        "ttsp_subj": 1.0,
+        "lr_only": 0.75,
+        "skel_only": 0.75,
+        "ms224_hyb": 0.75
+      },
+      "eval_macros": {
+        "ttsp_subj": 0.9464285714285714,
+        "lr_only": 0.75,
+        "skel_only": 0.75,
+        "ms224_hyb": 0.75
+      },
+      "eval_pc_chose": {
+        "forward_head": 0.7857142857142857,
+        "left_leaning": 1.0,
+        "right_leaning": 1.0,
+        "sit_straight": 1.0
+      }
+    },
+    {
+      "subject": "namoon",
+      "chose": "lr_only",
+      "cal_accs": {
+        "ttsp_subj": 1.0,
+        "lr_only": 1.0,
+        "skel_only": 0.4,
+        "ms224_hyb": 1.0
+      },
+      "eval_macros": {
+        "ttsp_subj": 1.0,
+        "lr_only": 1.0,
+        "skel_only": 0.6333333333333333,
+        "ms224_hyb": 1.0
+      },
+      "eval_pc_chose": {
+        "forward_head": 1.0,
+        "left_leaning": 1.0,
+        "right_leaning": 1.0,
+        "sit_straight": 1.0
+      }
+    },
+    {
+      "subject": "mai",
+      "chose": "lr_only",
+      "cal_accs": {
+        "ttsp_subj": 0.5,
+        "lr_only": 1.0,
+        "skel_only": 0.25,
+        "ms224_hyb": 1.0
+      },
+      "eval_macros": {
+        "ttsp_subj": 0.5,
+        "lr_only": 1.0,
+        "skel_only": 0.25,
+        "ms224_hyb": 1.0
+      },
+      "eval_pc_chose": {
+        "forward_head": 1.0,
+        "left_leaning": 1.0,
+        "right_leaning": 1.0,
+        "sit_straight": 1.0
+      }
+    },
+    {
+      "subject": "money",
+      "chose": "lr_only",
+      "cal_accs": {
+        "ttsp_subj": 1.0,
+        "lr_only": 1.0,
+        "skel_only": 0.75,
+        "ms224_hyb": 1.0
+      },
+      "eval_macros": {
+        "ttsp_subj": 1.0,
+        "lr_only": 1.0,
+        "skel_only": 0.75,
+        "ms224_hyb": 1.0
+      },
+      "eval_pc_chose": {
+        "forward_head": 1.0,
+        "left_leaning": 1.0,
+        "right_leaning": 1.0,
+        "sit_straight": 1.0
+      }
+    }
+  ],
+  "cohort": {
+    "selector_macro": 0.9920634920634921,
+    "selector_all90": 8,
+    "oracle_macro": 0.9920634920634921
+  }
+}

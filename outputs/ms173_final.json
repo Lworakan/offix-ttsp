@@ -1,0 +1,118 @@
+{
+  "E1a": {
+    "folds": [
+      {
+        "held_out": "fu",
+        "test": {
+          "macro": 100.0,
+          "per_class": {
+            "forward_head": 100.0,
+            "left_leaning": 100.0,
+            "right_leaning": 100.0,
+            "sit_straight": 100.0
+          }
+        }
+      },
+      {
+        "held_out": "mukrop",
+        "test": {
+          "macro": 98.68421052631578,
+          "per_class": {
+            "forward_head": 100.0,
+            "left_leaning": 100.0,
+            "right_leaning": 94.73684210526315,
+            "sit_straight": 100.0
+          }
+        }
+      },
+      {
+        "held_out": "nonny",
+        "test": {
+          "macro": 100.0,
+          "per_class": {
+            "forward_head": 100.0,
+            "left_leaning": 100.0,
+            "right_leaning": 100.0,
+            "sit_straight": 100.0
+          }
+        }
+      },
+      {
+        "held_out": "boom",
+        "test": {
+          "macro": 78.94736842105263,
+          "per_class": {
+            "forward_head": 15.789473684210526,
+            "left_leaning": 100.0,
+            "right_leaning": 100.0,
+            "sit_straight": 100.0
+          }
+        }
+      },
+      {
+        "held_out": "peemai",
+        "test": {
+          "macro": 75.0,
+          "per_class": {
+            "forward_head": 100.0,
+            "left_leaning": 100.0,
+            "right_leaning": 100.0,
+            "sit_straight": 0.0
+          }
+        }
+      },
+      {
+        "held_out": "pan",
+        "test": {
+          "macro": 75.0,
+          "per_class": {
+            "forward_head": 0.0,
+            "left_leaning": 100.0,
+            "right_leaning": 100.0,
+            "sit_straight": 100.0
+          }
+        }
+      },
+      {
+        "held_out": "namoon",
+        "test": {
+          "macro": 57.5,
+          "per_class": {
+            "forward_head": 70.0,
+            "left_leaning": 100.0,
+            "right_leaning": 0.0,
+            "sit_straight": 60.0
+          }
+        }
+      },
+      {
+        "held_out": "mai",
+        "test": {
+          "macro": 25.0,
+          "per_class": {
+            "forward_head": 0.0,
+            "left_leaning": 0.0,
+            "right_leaning": 0.0,
+            "sit_straight": 100.0
+          }
+        }
+      },
+      {
+        "held_out": "money",
+        "test": {
+          "macro": 75.0,
+          "per_class": {
+            "forward_head": 100.0,
+            "left_leaning": 100.0,
+            "right_leaning": 100.0,
+            "sit_straight": 0.0
+          }
+        }
+      }
+    ],
+    "mean_8": 76.26644736842105,
+    "both_90": 3,
+    "all4_90": 3,
+    "desc": "skel only (baseline)"
+  }
+}
