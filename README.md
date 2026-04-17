@@ -8,8 +8,8 @@ The contribution is a calibration-validated method selector that routes each
 user to one of four deployable inference heads (skeleton-only baseline,
 LR-anchored expert with class-protected offset head, entropy-gated dual-expert
 variant, 1-shot prototype classifier). On a strict 9-subject LOSO benchmark
-the selector reaches the per-subject oracle upper bound exactly --- 99.2 %
-cohort macro-F1, 8/9 subjects at >= 90 % per-class accuracy --- while using
+the selector reaches the per-subject oracle upper bound exactly  *99.2 %*
+cohort macro-F1, 8/9 subjects at >= 90 % per-class accuracy while using
 only the user's own labelled calibration recording at deployment time.
 
 ## Repository layout
