@@ -1,0 +1,7 @@
+numpy<2
+scipy
+scikit-learn
+torch==2.5.1
+torchvision
+opencv-python
+mediapipe
